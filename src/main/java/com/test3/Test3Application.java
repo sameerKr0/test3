@@ -7,7 +7,14 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test3Application {
 
 	public static void main(String[] args) {
+
+		
+		String name="mike";
 		int x=100;
+		int y=10;
+    int x=100;
+		float m = 30.3;
+		int z=10;
 		SpringApplication.run(Test3Application.class, args);
 	}
 
